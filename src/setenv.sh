@@ -1,8 +1,8 @@
-export GITACCOUNT=
+export GITACCOUNT=joveli
 
-export MYCLUSTER=
+export MYCLUSTER=tektonknativebeijing06
 export KUBECONFIG=
 
-export NAMESPACE=
-export EMAIL=
+export NAMESPACE=ddcnlab
+export EMAIL=jove@163.com
 export INGRESS=
